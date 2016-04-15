@@ -1,0 +1,6 @@
+{
+  "name": "Energy price market application",
+  "tagline": "A multi energy market cloud scheduling application",
+  "body": "### Energy price market application\r\n\r\n\r\nThis is the homepage for the energy price management application developed for completion of the master's thesis \"Cost aware resource management for distributed cloud data centers\"\r\n\r\n\r\nLink to energy price management application: https://github.com/epma16/epma\r\n\r\nLink to algorithms and models in R: https://github.com/epma16/rstats\r\n\r\nLink to cloud simulator: https://github.com/epma16/philharmonic\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
